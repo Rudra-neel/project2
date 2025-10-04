@@ -1,0 +1,21 @@
+div{
+    margin-right: auto;
+    display: flex;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.nav{
+    background-color: black;
+    margin-top: 0px;
+    height: 60px;
+}
+button{
+    background-color: orange;
+}
+#one a{
+color: rgb(203, 111, 5);
+margin-left: 25px;
+}
